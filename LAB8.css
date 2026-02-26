@@ -1,0 +1,17 @@
+h1{
+color: rgba(42, 165, 118, 0.76);
+font-size: 90px;
+text-align: center;
+}
+div{
+    background: aqua;
+}
+body{
+    background-color: aqua;
+    background-image: url(unnamed.jpg);
+}
+p{
+    color: rgb(6, 250, 26);
+font-size: 90px;
+text-align: center;
+}
